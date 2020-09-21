@@ -1,5 +1,6 @@
 i  am learning the github.
-Creating a new branch is quick and.
+Creating a new branch is quick and simple.
 trying.
-online.
+online in txt.
+
 
